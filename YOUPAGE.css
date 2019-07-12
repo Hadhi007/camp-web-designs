@@ -1,0 +1,59 @@
+.header{
+    background-color: #ffffff;
+    height: 75px;
+}
+.hone,.htwo,.hthree,.hfour,.hfive,.hsix{
+    position: absolute;
+}
+.hone{
+    margin-left: 25px;
+    margin-top: 25px;
+}
+.htwo{
+    margin-left: 130px;
+    margin-top: 25px;
+}
+.hthree{
+    margin-left: 180px;
+    margin-top: 10px;
+}
+.hfour{
+    margin-left: 650px;
+    margin-top: 25px;
+}
+.hfive{
+    margin-left: 850px;
+    margin-top: 28px;
+}
+.hsix{
+    margin-left: 1300px;
+    margin-top: 20px;
+}
+.hseven{
+    margin-left: 1250px;
+    margin-top: 25px;
+}
+.you{
+    background-color: snow;
+    height: 500px;
+}
+.tube{
+    background-color: white;
+    height: 500px;
+}
+.flex-container {
+    display: flex;
+    flex-direction: column;
+}
+.top-one{
+    margin-left: 25px;
+    text-align: left;
+}
+.top-two{
+    margin-left: 30px;
+    text-align: left;
+}
+.top-four{
+     margin-left: 30px;
+     text-align: left;
+ }

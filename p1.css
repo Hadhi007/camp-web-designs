@@ -1,0 +1,89 @@
+.fad,.ele{
+    color: red;
+    font-size: 50px;
+}
+.had{
+
+    background-color: brown;
+    font-size: 100px;
+}
+.dog{
+    color: darkblue;
+    background: chartreuse;
+}
+.ele{
+    background:  cadetblue;
+}
+.heading{
+    color: darkblue;
+    text-align:justify;
+    text-decoration:underline;
+    text-transform: uppercase;
+ text-shadow: 5px 2px chartreuse;
+}
+.PARAGRAGH{
+    text-align: justify;
+    color: darkblue;
+    text-indent:100px;
+    font-family: "Berlin Sans FB";
+    font-style: oblique;
+}
+.a{
+color: red;
+    text-decoration: none ;
+}
+a:link{
+    color: red;
+}
+a:visited{
+    color: yellow;
+}
+a:active{
+    color: blue;
+}
+.heading:hover{
+    color: aqua;
+}
+.item{
+    list-style-type: circle;
+    list-style-image: url("download.jpg");
+}
+.ping{
+    font-size: 100px;
+    color: chartreuse;
+    background-color: red;
+    padding-left: 500px;
+    text-align: center;
+    border: 5px dotted yellow;
+    outline: 5px double yellow;
+    text-shadow: 5px 5px black;
+
+
+}
+.first-right{
+    background-color: darkblue;
+    height: 100px;
+}
+.left,.right,.bottom{
+    height: 400px;
+    width: 30%;
+}
+.left{
+    background-color: red;
+    float: left;
+}
+.right
+{
+    background-color: green;
+    float: right;
+}
+.top{
+    background-color: darkblue;
+    clear: left;
+    height: 100px;
+}
+.bottom{
+    background-color: black;
+    height: 100px;
+    float: right;
+}

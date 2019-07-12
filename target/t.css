@@ -1,0 +1,70 @@
+.first-div{
+    background-color:	#3b5998;
+    height: 100px;
+    color: #8B9DC3;
+    text-align: center;
+    text-shadow: 2px 2px white;
+
+}
+.my-title{
+
+}
+.second-div,.third-div,.fourth-div{
+    width: 33.3%;
+    height: 590px;
+}
+.second-div{
+    background-color: #dfe3ee;
+    float: left;
+}
+.third-div{
+    background-color: #dfe3ee;
+    float: left;
+
+}
+.fourth-div{
+    background-color: #dfe3ee;
+    float: left;
+}
+.fifth-div{
+    background-color: #3b5998;
+    height: 100px;
+    clear: both;
+}
+.img-one,.img-two{
+
+}
+.pica{
+    float: left;
+    width: 33.3%;
+}
+.picb{
+    float: left;
+    width: 50%;
+}
+.w3-border-blue{
+  border-color: blue;
+}
+.picc{
+    float: left;
+    width: 100%;
+}
+.my-name{
+    margin-top: 160px;
+    text-align: right;
+    font-size: 25px;
+    text-align: center;
+}
+.edu-details{
+    margin-top:125px ;
+    text-align: center;
+}
+.disc{
+    font-style: italic;
+    color:darkslategray;
+}
+p.box{
+    border-color: 		#3b5998	;
+    border-style: solid;
+    border-width: 2px;
+}
